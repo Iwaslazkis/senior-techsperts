@@ -1,0 +1,22 @@
+{
+  "name": "senior-techsperts",
+  "version": "1.0.0",
+  "description": "CMS SSG website for senior tech classes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iwaslazkis/senior-techsperts.git"
+  },
+  "author": "Iwaslazkis (Diogo Iwasaki)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iwaslazkis/senior-techsperts/issues"
+  },
+  "homepage": "https://github.com/Iwaslazkis/senior-techsperts#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  }
+}
