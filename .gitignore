@@ -492,3 +492,11 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+#Main VS Code folder
+.vscode/
+
+# Eleventy #
+############
+
+_site/
